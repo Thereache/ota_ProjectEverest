@@ -1,0 +1,9 @@
+EverestOS 1.1 - Khumbu 
+Device side changelogs
+
+- Initial QPR2 build
+- Improved Stability 
+- Mi Cam included
+- KSU included
+- Dolby included
+- Many more
